@@ -11,6 +11,7 @@ var iLove = 'I love';
 // bob has an age of 24 (Number)
 // bob has hair, that has style spikey, and color brown (object)
 // bob is not presidentOfTheUnitedStates (boolean)
+//helloooooo
 // bob likes apples, bananas, and cherries (array of strings)
 
 
